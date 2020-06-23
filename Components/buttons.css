@@ -11,7 +11,7 @@ button {
 }
 
 .waterButton:hover {
-    background: blue;
+    background: #51618B;
     letter-spacing: 1px;
     -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
@@ -20,7 +20,7 @@ button {
 }
 
 .earthButton:hover {
-    background: green;
+    background: #4F964D;
     letter-spacing: 1px;
     -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
@@ -30,7 +30,7 @@ button {
 
 
 .fireButton:hover {
-    background: red;
+    background: #5D130E;
     letter-spacing: 1px;
     -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
