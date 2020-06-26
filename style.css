@@ -124,20 +124,20 @@ h3, p {
     }
     .container p {
         font-size: 10px;
-
     }
     .squad {
         display: block;
     }
     .avatarMural {
         width: 250px;
-        margin-bottom: 30px;
+        margin: 0 0 30px 0;
     }
     button {
         margin-bottom: 20px;
     }
     #characterAang {
-        width: 400px;
+        width: 350px;
+        clear: both;
     }
   }
 
