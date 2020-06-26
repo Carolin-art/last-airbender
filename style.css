@@ -56,8 +56,6 @@ h3, p {
     background-color: rgba(224,207,198,0.8);
     margin-top: 20px;
     padding: 20px 20px 30px 20px;
-
-
 }
 
 .avatarMural {
@@ -128,6 +126,7 @@ h3, p {
     }
     .squad {
         display: block;
+        margin-top: 5px;
     }
     .avatarMural {
         width: 250px;
@@ -138,6 +137,13 @@ h3, p {
     }
     #characterAang {
         width: 350px;
+        clear: both;
+    }
+    .headerPic {
+        width: 50px;
+        height: 50px;
+    }
+    .characterPic {
         clear: both;
     }
 
