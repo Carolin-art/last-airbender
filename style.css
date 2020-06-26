@@ -150,5 +150,11 @@ h3, p {
     .characterPic {
         float: none;
     }
-
+    .characterDescription {
+        padding: 0 0 5px 5px;
+    }
+    #backgroundPicture {
+        opacity: 0.2;
+    }
   }
+
