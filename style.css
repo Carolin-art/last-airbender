@@ -126,5 +126,18 @@ h3, p {
         font-size: 10px;
 
     }
+    .squad {
+        display: block;
+    }
+    .avatarMural {
+        width: 250px;
+        margin-bottom: 30px;
+    }
+    button {
+        margin-bottom: 20px;
+    }
+    #characterAang {
+        width: 400px;
+    }
   }
 
